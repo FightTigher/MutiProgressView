@@ -2,6 +2,7 @@
 
 
 xml
+  ```
   <com.sds.tigher.MutiProgressView
             android:id="@+id/progressView"
             android:layout_width="wrap_content"
@@ -11,5 +12,7 @@ xml
             app:mutiRadius="5dp"
             app:width="3dp"
             />
+            ```
+         
             
             
